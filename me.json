@@ -1,0 +1,10 @@
+{
+  "name": {
+    "first": "Tejas",
+    "last": "Satheesh"
+  },
+  "fromWisconsin": false,
+  "numCredits": 9,
+  "major": "Computer Science",
+  "interests": ["basketball", "watching TV", "listening to music"]
+}
